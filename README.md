@@ -1,82 +1,52 @@
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514411/10966/blob-coding.gif?1643514411" width="30"/>
-  Hey there, I'm Mohamed Wahab!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚔️+Mohamed+Wahab+⚔️;Computer+Science+Student;Backend+Developer;AI+%26+Automation+Enthusiast;Future+Software+Engineer" />
+</h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p><em>
-Computer Science Student & Aspiring Software Engineer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
-
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F7FF&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=ff69b4&labelColor=000000" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250">
+</div>
+
+# 🌌 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ```javascript
 const mohamed = {
-  name: "Mohamed Wahab",
-  location: "Algeria 🇩🇿",
-  role: "Computer Science Student",
+    name: "Mohamed Wahab",
+    location: "Algeria 🇩🇿",
+    role: "Computer Science Student",
 
-  languages: [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "HTML",
-    "CSS"
-  ],
-
-  askMeAbout: [
-    "backend development",
-    "telegram bots",
-    "automation",
-    "AI tools",
-    "databases",
-    "problem solving"
-  ],
-
-  technologies: {
-    backend: {
-      python: ["Python"],
-      javascript: ["Node.js basics"]
-    },
-
-    databases: [
-      "MySQL",
-      "SQL"
+    code: [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS"
     ],
 
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "Linux Basics"
+    passions: [
+        "Artificial Intelligence",
+        "Backend Development",
+        "Automation",
+        "Telegram Bots",
+        "System Design"
     ],
 
-    interests: [
-      "Artificial Intelligence",
-      "Automation",
-      "System Design",
-      "Backend Development",
-      "Cybersecurity Basics"
-    ]
-  },
+    currentFocus: [
+        "Building real-world projects",
+        "Learning advanced backend engineering",
+        "Improving problem solving",
+        "Creating AI-powered tools"
+    ],
 
-  currentFocus: [
-    "Building real-world projects",
-    "Learning backend engineering",
-    "Improving programming skills",
-    "Developing AI-assisted tools"
-  ],
-
-  funFact:
-    "Small progress every day becomes big progress over time."
+    lifePhilosophy:
+        "Consistency beats motivation."
 };
